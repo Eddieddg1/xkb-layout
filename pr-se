@@ -17,7 +17,7 @@ xkb_symbols "basic" {
 	key <AE09> {[ 9, bracketright, none, none ]};
 	key <AE10> {[ 0, braceright, none, none ]};
 	key <AE11> {[ question, parenright, none, none ]};
-	key <AE12> {[ dead_acute, dead_grave, plusminus,           none ]};
+	key <AE12> {[ equal, dead_grave, plusminus,           none ]};
 
 	key <AD01> {[ aring,      Aring,      braceleft,           none ]};
 	key <AD02> {[ adiaeresis, Adiaeresis, braceright,          none ]};
@@ -40,18 +40,18 @@ xkb_symbols "basic" {
 	key <AC06> {[ d,          D,          numbersign,          none ]};
 	key <AC07> {[ h,          H,          asciicircum,         none ]};
 	key <AC08> {[ l,          L,          numbersign,          none ]};
-	key <AC09> {[ n,          N,          quotedbl,            none ]};
+	key <AC09> {[ e,          E,          quotedbl,            none ]};
 	key <AC10> {[ s,          S,          asciitilde,          none ]};
 	key <AC11> {[ minus,      underscore, grave,               none ]};
 
 	key <AB01> {[ period,     colon,      colon,               none ]};
-	key <AB02> {[ q,          Q,          equal,               none ]};
-	key <AB03> {[ e,          E,          at,                  none ]};
+	key <AB02> {[ w,          W,          equal,               none ]};
+	key <AB03> {[ q,          Q,          at,                  none ]};
 	key <AB04> {[ u,          U,          exclam,              none ]};
 	key <AB05> {[ x,          X,          backslash,           none ]};
 	key <AB06> {[ b,          B,          percent,             none ]};
-	key <AB07> {[ m,          M,          grave,               none ]};
-	key <AB08> {[ w,          W,          lstroke,             none ]};
+	key <AB07> {[ n,          N,          grave,               none ]};
+	key <AB08> {[ m,          M,          lstroke,             none ]};
 	key <AB09> {[ v,          V,          leftdoublequotemark, none ]};
 	key <AB10> {[ z,          Z,          guillemotleft,       none ]};
 
