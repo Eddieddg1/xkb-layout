@@ -24,12 +24,12 @@ xkb_symbols "basic" {
 	key <AD03> {[ odiaeresis, Odiaeresis, bracketleft,         none ]};
 	key <AD04> {[ p,          P,          bracketright,        none ]};
 	key <AD05> {[ y,          Y,          dollar,              none ]};
-	key <AD06> {[ f,          F,          quotedbl,            none ]};
+	key <AD06> {[ minus,      underscore, grave,               none ]};
 	key <AD07> {[ g,          G,          question,            none ]};
 	key <AD08> {[ c,          C,          ampersand,           none ]};
 	key <AD09> {[ r,          R,          less,                none ]};
 	key <AD10> {[ t,          T,          greater,             none ]};
-	key <AD11> {[ comma,      semicolon,  dead_cedilla,        none ]};
+	key <AD11> {[ f,          F,          quotedbl,            none ]};
 	key <AD12> {[ dead_diaeresis, dead_circumflex, dead_tilde, asciicircum ]};
 
 	key <AC01> {[ a,          A,          semicolon,           none ]};
@@ -37,18 +37,18 @@ xkb_symbols "basic" {
 	key <AC03> {[ j,          J,          parenleft,           none ]};
 	key <AC04> {[ k,          K,          parenright,          none ]};
 	key <AC05> {[ i,          I,          bar,                 none ]};
-	key <AC06> {[ d,          D,          numbersign,          none ]};
+	key <AC06> {[ comma,      semicolon,  dead_cedilla,        none ]};
 	key <AC07> {[ h,          H,          asciicircum,         none ]};
 	key <AC08> {[ l,          L,          numbersign,          none ]};
 	key <AC09> {[ e,          E,          quotedbl,            none ]};
 	key <AC10> {[ s,          S,          asciitilde,          none ]};
-	key <AC11> {[ minus,      underscore, grave,               none ]};
+	key <AC11> {[ d,          D,          numbersign,          none ]};
 
-	key <AB01> {[ period,     colon,      colon,               none ]};
-	key <AB02> {[ w,          W,          equal,               none ]};
-	key <AB03> {[ q,          Q,          at,                  none ]};
-	key <AB04> {[ u,          U,          exclam,              none ]};
-	key <AB05> {[ x,          X,          backslash,           none ]};
+	key <AB01> {[ w,          W,          equal,               none ]};
+	key <AB02> {[ q,          Q,          at,                  none ]};
+	key <AB03> {[ u,          U,          exclam,              none ]};
+	key <AB04> {[ x,          X,          backslash,           none ]};
+	key <AB05> {[ period,     colon,      colon,               none ]};
 	key <AB06> {[ b,          B,          percent,             none ]};
 	key <AB07> {[ n,          N,          grave,               none ]};
 	key <AB08> {[ m,          M,          lstroke,             none ]};
